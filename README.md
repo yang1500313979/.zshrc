@@ -1,2 +1,6 @@
 # .zshrc
-.zshrc 配置文件
+.zshrc config file
+
+## proxy list
+
+Cooperate with ss to open terminal agent quickly
